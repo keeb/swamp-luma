@@ -2,6 +2,7 @@ manifestVersion: 1
 name: "@keeb/luma"
 version: "2026.10.09.1"
 description: "Luma event sign-ups: list a calendar's events, poll an event's guest list for net new sign-ups (each announced once, first run seeds silently), and compose a daily summary of sign-ups by status and days left — ready to post to any chat webhook."
+repository: https://github.com/keeb/swamp-luma
 labels:
   - luma
   - events
